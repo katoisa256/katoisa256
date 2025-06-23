@@ -21,6 +21,6 @@ I'm open to collaborating on large-scale projects and open-source contributions.
 
 ## 📫 Get in Touch
 
-To learn more about me, my projects, and how to contact me, visit my [website](https://katoisa256.vercel.app/). You'll find my contact information and links to my social media profiles there. Feel free to reach out!
+To learn more about me, my projects, and how to contact me, visit my [website](https://kato-isa-omoding.vercel.app/). You'll find my contact information and links to my social media profiles there. Feel free to reach out!
 
 Let's build something amazing together! 🚀
